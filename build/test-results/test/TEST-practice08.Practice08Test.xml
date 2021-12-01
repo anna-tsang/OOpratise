@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="practice08.Practice08Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-01T12:22:28" hostname="TSANGAN-W10" time="0.05">
-  <properties/>
-  <testcase name="should_teacher_introduce_itself_with_no_class_teaching()" classname="practice08.Practice08Test" time="0.05"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

@@ -14,3 +14,5 @@ practice07/Practice07Test.java
  practice07.Practice07Test
 practice08/Practice08Test.java
  practice08.Practice08Test
+practice09/Practice09Test.java
+ practice09.Practice09Test
