@@ -1,10 +1,10 @@
 practice01/Practice01Test.java
  practice01.Practice01Test
-practice04/Practice04Test.java
- practice04.Practice04Test
-practice03/Practice03Test.java
- practice03.Practice03Test
 practice02/Practice02Test.java
  practice02.Practice02Test
+practice03/Practice03Test.java
+ practice03.Practice03Test
 practice05/Practice05Test.java
  practice05.Practice05Test
+practice04/Practice04Test.java
+ practice04.Practice04Test
