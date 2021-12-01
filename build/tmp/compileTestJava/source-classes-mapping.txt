@@ -4,3 +4,5 @@ practice03/Practice03Test.java
  practice03.Practice03Test
 practice02/Practice02Test.java
  practice02.Practice02Test
+practice04/Practice04Test.java
+ practice04.Practice04Test
