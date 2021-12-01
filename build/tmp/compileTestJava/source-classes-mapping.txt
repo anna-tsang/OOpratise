@@ -1,2 +1,4 @@
 practice01/Practice01Test.java
  practice01.Practice01Test
+practice02/Practice02Test.java
+ practice02.Practice02Test

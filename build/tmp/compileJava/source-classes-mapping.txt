@@ -38,8 +38,8 @@ practice07/Student.java
  practice07.Student
 practice08/Person.java
  practice08.Person
-practice02/Student.java
- practice02.Student
+practice09/Person.java
+ practice09.Person
 practice05/Teacher.java
  practice05.Teacher
 practice06/Person.java
@@ -60,5 +60,5 @@ practice10/Teacher.java
  practice10.Teacher
 practice07/Teacher.java
  practice07.Teacher
-practice09/Person.java
- practice09.Person
+practice02/Student.java
+ practice02.Student
