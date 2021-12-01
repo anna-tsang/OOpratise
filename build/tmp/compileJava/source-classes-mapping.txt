@@ -12,8 +12,8 @@ practice10/Person.java
  practice10.Person
 practice03/Student.java
  practice03.Student
-practice05/Person.java
- practice05.Person
+practice04/Student.java
+ practice04.Student
 practice10/Klass.java
  practice10.Klass
 practice01/Person.java
@@ -30,8 +30,8 @@ practice08/Student.java
  practice08.Student
 practice06/Student.java
  practice06.Student
-practice05/Student.java
- practice05.Student
+practice04/Worker.java
+ practice04.Worker
 practice03/Person.java
  practice03.Person
 practice07/Student.java
@@ -40,8 +40,8 @@ practice08/Person.java
  practice08.Person
 practice09/Person.java
  practice09.Person
-practice05/Teacher.java
- practice05.Teacher
+practice05/Person.java
+ practice05.Person
 practice06/Person.java
  practice06.Person
 practice07/Person.java
@@ -58,7 +58,7 @@ practice07/Klass.java
  practice07.Klass
 practice04/Person.java
  practice04.Person
-practice04/Worker.java
- practice04.Worker
-practice04/Student.java
- practice04.Student
+practice05/Student.java
+ practice05.Student
+practice05/Teacher.java
+ practice05.Teacher
