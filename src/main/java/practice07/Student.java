@@ -13,8 +13,7 @@ public class Student extends Person {
     }
 
     public String introduce() {
-        return super.introduce() + " " + "I am a Student. I am " +
-                (klass.getLeader() != null && klass.getLeader().equals(this)
-                        ? "Leader of" : "at") + " Class " + klass.getNumber() + ".";
+        return super.introduce() + " " + "I am a Student. I am " + (klass.getLeader() != null && klass.getLeader().equals(this)
+                ? "Leader of" : "at") + " Class " + klass.getNumber() + ".";
     }
 }
